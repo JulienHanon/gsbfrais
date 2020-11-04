@@ -24,3 +24,7 @@ Route::get('ajoutFrais', function(){
 Route::get('connexion', function(){
     return view('connexion');
 });
+
+Route::get('deconnexion', function(){
+    return view('deconnexion');
+});
