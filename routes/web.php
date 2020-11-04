@@ -40,4 +40,9 @@ Route::get('etatFrais', function(){
     return view('etatFrais');
 });
 
+Route::get('listeFraisForfait', function(){
+    return view('listeFraisForfait');
+});
+
+
 
