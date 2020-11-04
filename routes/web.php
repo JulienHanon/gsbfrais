@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('ajoutFrais', function(){
     return view('ajoutFrais');
 });
+
+Route::get('connexion', function(){
+    return view('connexion');
+});
