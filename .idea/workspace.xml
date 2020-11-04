@@ -149,6 +149,7 @@
       <command value="php artisan make:controller ConnexionController" />
       <command value="php artisan make:controller etatFraisController" />
       <command value="php artisan make:controller GererController" />
+      <command value="php artisan make:model models/etatFrais" />
     </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -159,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604503017075</updated>
-      <workItem from="1604503048023" duration="2845000" />
+      <workItem from="1604503048023" duration="3814000" />
     </task>
     <servers />
   </component>
@@ -171,29 +172,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="281" y="299" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604505063163" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1604505231117">
+    <state width="932" height="279" key="GridCell.Tab.0.bottom" timestamp="1604506531390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604505231117" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1604505231117">
+    <state width="932" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604506531390" />
+    <state width="932" height="279" key="GridCell.Tab.0.center" timestamp="1604506531390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604505231117" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1604505231117">
+    <state width="932" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604506531390" />
+    <state width="932" height="279" key="GridCell.Tab.0.left" timestamp="1604506531390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604505231117" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1604505231117">
+    <state width="932" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604506531390" />
+    <state width="932" height="279" key="GridCell.Tab.0.right" timestamp="1604506531390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604505231117" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604505711825">
+    <state width="932" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604506531390" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604506580248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604505711825" />
-    <state x="258" y="203" width="672" height="677" key="run.anything.popup" timestamp="1604504952903">
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604506580248" />
+    <state x="258" y="203" width="672" height="677" key="run.anything.popup" timestamp="1604506531222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="258" y="203" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604504952903" />
+    <state x="258" y="203" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604506531222" />
   </component>
 </project>

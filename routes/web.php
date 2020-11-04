@@ -28,3 +28,16 @@ Route::get('connexion', function(){
 Route::get('deconnexion', function(){
     return view('deconnexion');
 });
+
+Route::get('entete', function(){
+    return view('entete');
+});
+
+Route::get('erreurs', function(){
+    return view('erreurs');
+});
+Route::get('etatFrais', function(){
+    return view('etatFrais');
+});
+
+
