@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f540cf-402b-4214-997d-723b7525c0ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/vueConsulterFiche.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/gabarit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vueConsulterFiche.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueConsulterFiche.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604503017075</updated>
       <workItem from="1604503048023" duration="1765000" />
-      <workItem from="1605710978677" duration="4389000" />
+      <workItem from="1605710978677" duration="5970000" />
     </task>
     <task id="LOCAL-00001" summary="ajout branche steven">
       <created>1605712101706</created>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605712101707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout vueConsulterFiche">
+      <created>1605715600020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605715600020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,13 +202,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout branche steven" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout branche steven" />
+    <MESSAGE value="Ajout vueConsulterFiche" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout vueConsulterFiche" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="92" key="CommitChangelistDialog2" timestamp="1605712100332">
+    <state x="105" y="92" key="CommitChangelistDialog2" timestamp="1605715598721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605712100332" />
+    <state x="105" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605715598721" />
     <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1604504953057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -223,10 +230,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605713543162" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605712221173">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605715609171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605712221173" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605715609171" />
     <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712035156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

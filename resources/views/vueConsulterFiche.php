@@ -13,7 +13,9 @@
         <p><?php $moisSelectionner ?></p> <!-- Affiche le mois selectionner par l'utilisateur-->
     </div> <!-- fin info visiteur-->
     <div id="affichageFrais">
-
+        <?php
+        $fraisForfaitaires = array ();
+        ?>
     </div>
 
 </div>
