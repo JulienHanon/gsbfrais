@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f540cf-402b-4214-997d-723b7525c0ea" name="Default Changelist" comment="" />
+    <list default="true" id="91f540cf-402b-4214-997d-723b7525c0ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/gabarit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,10 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -160,6 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604503017075</updated>
       <workItem from="1604503048023" duration="1765000" />
+      <workItem from="1605710978677" duration="992000" />
     </task>
     <servers />
   </component>
@@ -183,10 +191,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604504953057" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604504143706">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605711665904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604504143706" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605711665904" />
+    <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605711975711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605711975711" />
     <state x="258" y="203" width="672" height="677" key="run.anything.popup" timestamp="1604504952903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
