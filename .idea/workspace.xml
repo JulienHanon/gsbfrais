@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f540cf-402b-4214-997d-723b7525c0ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/vueRenseignerFiche.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vueConsulterFiche.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueConsulterFiche.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +180,9 @@
       <option name="presentableId" value="Default" />
       <updated>1604503017075</updated>
       <workItem from="1604503048023" duration="1765000" />
-      <workItem from="1605710978677" duration="5970000" />
+      <workItem from="1605710978677" duration="6033000" />
+      <workItem from="1606300641466" duration="44000" />
+      <workItem from="1606308283028" duration="8162000" />
     </task>
     <task id="LOCAL-00001" summary="ajout branche steven">
       <created>1605712101706</created>
@@ -194,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605715600020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajout vueConsulterFiche">
+      <created>1605717034375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605717034375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,10 +217,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Ajout vueConsulterFiche" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="92" key="CommitChangelistDialog2" timestamp="1605715598721">
+    <state x="187" y="166" key="#PHP" timestamp="1606311560856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605715598721" />
+    <state x="187" y="166" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606311560856" />
+    <state x="105" y="92" key="CommitChangelistDialog2" timestamp="1605717032998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="105" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605717032998" />
     <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1604504953057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -226,14 +241,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604504953057" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605713543162">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1606312000619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605713543162" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605715609171">
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606312000619" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605717053469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605715609171" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605717053469" />
+    <state x="90" y="181" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606311648038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="90" y="181" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606311648038" />
     <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712035156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,9 +265,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="258" y="203" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604504952903" />
-    <state x="164" y="230" key="search.everywhere.popup" timestamp="1605714421602">
+    <state x="164" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1606316734752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="164" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605714421602" />
+    <state x="164" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606316734752" />
   </component>
 </project>
