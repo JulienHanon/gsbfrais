@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605717034375</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ajout fonction warning et erased">
+      <created>1606321001631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606321001631</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,17 +219,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout branche steven" />
     <MESSAGE value="Ajout vueConsulterFiche" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout vueConsulterFiche" />
+    <MESSAGE value="Ajout fonction warning et erased" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout fonction warning et erased" />
   </component>
   <component name="WindowStateProjectService">
     <state x="187" y="166" key="#PHP" timestamp="1606311560856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="187" y="166" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606311560856" />
-    <state x="105" y="92" key="CommitChangelistDialog2" timestamp="1606319484476">
+    <state x="105" y="92" key="CommitChangelistDialog2" timestamp="1606321000491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606319484476" />
+    <state x="105" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606321000491" />
     <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1604504953057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,10 +251,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606312000619" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605717053469">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1606321757139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605717053469" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606321757139" />
     <state x="90" y="181" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606311648038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
