@@ -21,6 +21,17 @@
         <input type="text" name="fraisSuppLib" id="fraisSuppLib">
     </form>
     <button type="submit">Sauvegarder</button>
-    <button type="reset">Effacer</button>
+    <button type="reset" onclick="warning()" ondblclick="erased()">Effacer</button>
 </div>
-
+<script>
+    function erased() {
+        document.getElementById("nuitee").reset();
+        document.getElementById("repasMidi").reset();
+        document.getElementById("kilometrage").reset();
+        document.getElementById("fraisSupp").reset();
+        document.getElementById("fraisSuppLib").reset();
+    }
+    function warning(){
+        alert('Êtes vous sur? Vous ne pourrez pas recuperer ses données.Si oui double cliquer sur Effacer');
+    }
+</script>
